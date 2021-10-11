@@ -1,0 +1,13 @@
+C:\Users\u413\Desktop\prac4\zad9\bin\Debug\zad9.exe.config
+C:\Users\u413\Desktop\prac4\zad9\bin\Debug\zad9.exe
+C:\Users\u413\Desktop\prac4\zad9\bin\Debug\zad9.pdb
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\MainWindow.baml
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\MainWindow.g.cs
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\App.g.cs
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\zad9_MarkupCompile.cache
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\zad9.g.resources
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\zad9.Properties.Resources.resources
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\zad9.csproj.GenerateResource.cache
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\zad9.csproj.CoreCompileInputs.cache
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\zad9.exe
+C:\Users\u413\Desktop\prac4\zad9\obj\Debug\zad9.pdb
