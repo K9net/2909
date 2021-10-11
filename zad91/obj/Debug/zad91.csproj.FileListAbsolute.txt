@@ -1,0 +1,14 @@
+C:\Users\u413\Desktop\prac4\zad91\bin\Debug\zad91.exe.config
+C:\Users\u413\Desktop\prac4\zad91\bin\Debug\zad91.exe
+C:\Users\u413\Desktop\prac4\zad91\bin\Debug\zad91.pdb
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\MainWindow.baml
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\MainWindow.g.cs
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\App.g.cs
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\zad91_MarkupCompile.cache
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\zad91.g.resources
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\zad91.Properties.Resources.resources
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\zad91.csproj.GenerateResource.cache
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\zad91.csproj.CoreCompileInputs.cache
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\zad91.exe
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\zad91.pdb
+C:\Users\u413\Desktop\prac4\zad91\obj\Debug\zad91.csprojAssemblyReference.cache

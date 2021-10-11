@@ -1,0 +1,13 @@
+C:\Users\u413\Desktop\prac4\zad82\bin\Debug\zad82.exe.config
+C:\Users\u413\Desktop\prac4\zad82\bin\Debug\zad82.exe
+C:\Users\u413\Desktop\prac4\zad82\bin\Debug\zad82.pdb
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\MainWindow.baml
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\MainWindow.g.cs
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\App.g.cs
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\zad82_MarkupCompile.cache
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\zad82.g.resources
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\zad82.Properties.Resources.resources
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\zad82.csproj.GenerateResource.cache
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\zad82.csproj.CoreCompileInputs.cache
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\zad82.exe
+C:\Users\u413\Desktop\prac4\zad82\obj\Debug\zad82.pdb
