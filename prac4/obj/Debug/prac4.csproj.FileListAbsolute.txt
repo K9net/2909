@@ -1,0 +1,17 @@
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4.csprojAssemblyReference.cache
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\MainWindow.baml
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\MainWindow.g.cs
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\App.g.cs
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4_MarkupCompile.cache
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4.g.resources
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4.Properties.Resources.resources
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4.csproj.GenerateResource.cache
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4.csproj.CoreCompileInputs.cache
+C:\Users\u413\source\repos\prac4\prac4\bin\Debug\prac4.exe.config
+C:\Users\u413\source\repos\prac4\prac4\bin\Debug\prac4.exe
+C:\Users\u413\source\repos\prac4\prac4\bin\Debug\prac4.pdb
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\NewWindow.g.cs
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4_MarkupCompile.lref
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\NewWindow.baml
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4.exe
+C:\Users\u413\source\repos\prac4\prac4\obj\Debug\prac4.pdb
